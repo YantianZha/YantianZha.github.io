@@ -1,0 +1,21 @@
+title: Yantian Zha
+description: Personal Webpage
+sourcecode: "https://github.com/YantianZha/YantianZha.github.io"
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+url: "https://yantianzha.github.io"     # the base hostname & protocol for your site
+baseurl: "/yantianzha.github.io"                   # the subpath of your site, e.g. /blog
+
+author:
+    name:
+    facebook:
+    scholar:
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: pretty

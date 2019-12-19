@@ -17,8 +17,15 @@ pubs:
       journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018 as an Extended Abstract."
       url:     "https://dl.acm.org/citation.cfm?id=3238103"
       media:
+        - name: "Full Paper"
+          url: https://arxiv.org/abs/1712.01949
         - name: "Code"
           url: "https://github.com/YantianZha/Distr2Vec"
+        - name: "Slides"
+          url: https://drive.google.com/open?id=19dSk2Qk2vEqwJXBzbN1XoQJIa-YdMGdY
+        - name: "Poster"
+          url: https://drive.google.com/open?id=1suKUc865_NNMMnSSXEqJIA7gmjAKlOb2
+
   
     - title:   "Discovering Underlying Plans Based on Shallow Models"
       author:  "Zhuo, Hankz Hankui, Zha, Yantian, Kambhampati, Subbarao, and Tian, Xin"
@@ -33,9 +40,10 @@ pubs:
       journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019 as an Extended Abstract."
       url:     "https://yochan-lab.github.io/papers/files/papers/anagha-aamas-2019.pdf"
       media:
-        - name: "YouTube"
+        - name: "Full Paper"
+          url: https://arxiv.org/abs/1611.05497
+        - name: "Demo Video"
           url:  "https://youtu.be/iLG-ANQtYms"
-
 
 ---
 

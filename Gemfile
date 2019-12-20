@@ -37,3 +37,6 @@ gem 'rmagick'
 
 # https://github.com/ggreer/jekyll-gallery-generator
 gem 'jekyll-gallery-generator'
+
+# https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+# run bundle update github-pages on terminal

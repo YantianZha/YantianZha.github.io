@@ -5,8 +5,6 @@ permalink: /
 
 pubs:
 
-pubs:
-
     - title:   "Plan-Recognition-Driven Attention Modeling for Visual Recognition"
       author:  "Zha, Yantian, Yikang Li, Tianshu Yu, Subbarao Kambhampati and Baoxin Li"
       journal: "AAAI 2019 Workshop on Plan, Activity, and Intent Recognition (PAIR)."

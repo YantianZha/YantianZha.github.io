@@ -51,7 +51,15 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+<<<<<<< HEAD
     rouge (3.14.0)
+=======
+    rmagick (2.16.0)
+    rouge (3.13.0)
+    ruby-enum (0.7.2)
+      i18n
+    rubyzip (1.3.0)
+>>>>>>> e7751d8c14b62b4c65882eba47c4075e449879bf
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)

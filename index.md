@@ -53,7 +53,7 @@ Yantian is interested in planning, vision, and their applications in robotics.
 
 Yantian is also an amateur pianist who received his [Level 10 Piano Certificate]{% link /files/piano_certificate.jpg %} when he was a boy.
 
-If you'd like to contact me, please drop me a mail at [yzha3 at asu dot edu](mailto:yzha3@asu.edu) or find me on [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
+Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
 
 # <a name="publications"></a>Publications 
 

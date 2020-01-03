@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-gem 'github-pages'
-
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -10,7 +8,7 @@ gem 'github-pages'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.4"
+gem "jekyll", "~> 3.8.6"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -25,18 +23,12 @@ group :jekyll_plugins do
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+# and associated library.
+install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
-gem 'exifr'
-
-# sudo apt-get install libmagickwand-dev
-gem 'rmagick'
-
-# https://github.com/ggreer/jekyll-gallery-generator
-gem 'jekyll-gallery-generator'
-
-# https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
-# run bundle update github-pages on terminal

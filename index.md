@@ -51,7 +51,7 @@ Yantian is a PhD student working in the [Yochan](https://yochan-lab.github.io/ho
 
 Yantian is interested in planning, vision, and their applications in robotics. 
 
-Yantian is also an amateur pianist who received his [Level 10 Piano Certificate](% link /files/piano_certificate.jpg %){:target="_blank"} when he was a boy.
+Yantian is also an amateur pianist who received his [Level 10 Piano Certificate](https://drive.google.com/file/d/0BzFSKJBTOGjKRExJZENGajlCVG8/view){:target="_blank"} when he was a boy.
 
 Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
 

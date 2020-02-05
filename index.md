@@ -12,7 +12,7 @@ pubs:
 
     - title:   "Recognizing plans by learning embeddings from observed action distributions"
       author:  "Zha, Yantian, Yikang Li, Sriram Gopalakrishnan, Baoxin Li, and Subbarao Kambhampati"
-      journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018 as an Extended Abstract."
+      journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018."
       url:     "https://dl.acm.org/citation.cfm?id=3238103"
       media:
         - name: "Full Paper"
@@ -35,7 +35,7 @@ pubs:
 
     - title:   "Explicability as Minimizing Distance from Expected Behavior"
       author:  "Kulkarni, Anagha, Zha, Yantian, Chakraborti, Tathagata, Vadlamudi, Satya Gautam, Zhang, Yu and Kambhampati, Subbarao"
-      journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019 as an Extended Abstract."
+      journal: "In Precendings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019."
       url:     "https://yochan-lab.github.io/papers/files/papers/anagha-aamas-2019.pdf"
       media:
         - name: "Full Paper"

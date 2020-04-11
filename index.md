@@ -55,6 +55,9 @@ Yantian is also an amateur pianist who received his [Level 10 Piano Certificate]
 
 Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
 
+<span style="color:red">News!</span>
+Currently working as a robotics research intern at ABB, Raleigh advised by Dr. Jianjun Wang and Dr. Biao Zhang.
+
 # <a name="publications"></a>Publications 
 
 {% for pub in page.pubs %}

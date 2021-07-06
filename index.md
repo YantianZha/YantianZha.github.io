@@ -5,13 +5,18 @@ permalink: /
 
 pubs:
 
+    - title:   "Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping"
+      author:  "Yantian Zha, Siddhant Bhambri, and Lin Guan"
+      journal: "The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021."
+      url:     "https://arxiv.org/abs/2104.00878"
+
     - title:   "Plan-Recognition-Driven Attention Modeling for Visual Recognition"
-      author:  "Zha, Yantian, Yikang Li, Tianshu Yu, Subbarao Kambhampati and Baoxin Li"
+      author:  "Yantian Zha, Yikang Li, Tianshu Yu, Subbarao Kambhampati and Baoxin Li"
       journal: "AAAI 2019 Workshop on Plan, Activity, and Intent Recognition (PAIR)."
       url:     "https://arxiv.org/abs/1812.00301"
 
     - title:   "Recognizing plans by learning embeddings from observed action distributions"
-      author:  "Zha, Yantian, Yikang Li, Sriram Gopalakrishnan, Baoxin Li, and Subbarao Kambhampati"
+      author:  "Yantian Zha, Yikang Li, Sriram Gopalakrishnan, Baoxin Li, and Subbarao Kambhampati"
       journal: "In Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2018."
       url:     "https://dl.acm.org/citation.cfm?id=3238103"
       media:
@@ -26,7 +31,7 @@ pubs:
 
   
     - title:   "Discovering Underlying Plans Based on Shallow Models"
-      author:  "Zhuo, Hankz Hankui, Zha, Yantian, Kambhampati, Subbarao, and Tian, Xin"
+      author:  "Hankz Hankui Zhuo, Yantian Zha, Subbarao Kambhampati, and Xin Tian"
       journal: "In Proceedings of ACM Transactions on Intelligent Systems and Technology (ACM-TIST) 2019."
       url:     "https://yochan-lab.github.io/papers/files/papers/hankz_tist_19.pdf"
       media:
@@ -34,7 +39,7 @@ pubs:
           url: "https://github.com/YantianZha/Discovering-Underlying-Plans-Based-on-Shallow-Models"
 
     - title:   "Explicability as Minimizing Distance from Expected Behavior"
-      author:  "Kulkarni, Anagha, Zha, Yantian, Chakraborti, Tathagata, Vadlamudi, Satya Gautam, Zhang, Yu and Kambhampati, Subbarao"
+      author:  "Anagha Kulkarni, Yantian Zha, Tathagata Chakraborti, Satya Gautam Vadlamudi, Yu Zhang and Subbarao Kambhampati"
       journal: "In Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019."
       url:     "https://yochan-lab.github.io/papers/files/papers/anagha-aamas-2019.pdf"
       media:
@@ -55,7 +60,9 @@ Yantian is also an amateur pianist who received his [Level 10 Piano Certificate]
 
 Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
 
-<span style="color:red">News!</span>  
+<span style="color:red">News!</span>
+06/30/2021: Our paper [Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping](https://arxiv.org/abs/2104.00878){:target="_blank"} is accecped by IROS 2021. Thanks to my collaborators!
+04/40/2021: I am awarded the CIDSE Doctoral Fellowship.  
 03/2020 - 08/2020: Worked as a robotics research intern at ABB, Raleigh advised by Dr. Jianjun Wang.
 
 # <a name="publications"></a>Publications 

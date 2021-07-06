@@ -54,7 +54,7 @@ pubs:
 
 Yantian is a PhD student working in the [Yochan](https://yochan-lab.github.io/home/){:target="_blank"} research group directed by [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}, at [Arizona State University](http://www.asu.edu){:target="_blank"}. Prior to joining Yochan Lab in 2015, he worked with [Prof. Xudong Ma](https://automation.seu.edu.cn/2019/0528/c24505a275234/page.htm){:target="_blank"}, and [Dr. Kun Qian](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm){:target="_blank"} in the Institute of Intelligent Robotics and Intelligent Control at Southeast University. 
 
-Yantian is interested in planning, vision, and their integrations that improves the cognitive abilities of robots. 
+Yantian is interested in planning, vision, and their integrations that improve the cognitive abilities of robots. 
 
 Yantian is also an amateur pianist who received his [Level 10 Piano Certificate](https://drive.google.com/file/d/0BzFSKJBTOGjKRExJZENGajlCVG8/view){:target="_blank"} when he was a boy.
 

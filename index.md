@@ -64,7 +64,7 @@ Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.
 
 06/30/2021: Our paper <span style="color:red">[Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping](https://arxiv.org/abs/2104.00878){:target="_blank"}</span> is accecped by IROS 2021. Thanks to my collaborators!
 
-04/40/2021: I am awarded the CIDSE Doctoral Fellowship.  
+04/30/2021: I am awarded the CIDSE Doctoral Fellowship.  
 
 03/2020 - 08/2020: Worked as a robotics research intern at ABB, Raleigh advised by Dr. Jianjun Wang.
 

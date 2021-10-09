@@ -9,6 +9,13 @@ pubs:
       author:  "Yantian Zha, Siddhant Bhambri, and Lin Guan"
       journal: "The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2021."
       url:     "https://arxiv.org/abs/2104.00878"
+      media:
+        - name: "Project"
+          url: https://sites.google.com/asu.edu/affordance-aware-imitation/project
+        - name: "IROS_Talk"
+          url: "https://www.youtube.com/watch?v=K71EAN5tNaI"
+        - name: "Slides"
+          url: https://docs.google.com/presentation/d/1BnLmf3-xW4GVohHwTTYLx0U0DUXFdZw5/edit?usp=sharing&ouid=113539223350183339196&rtpof=true&sd=true
 
     - title:   "Plan-Recognition-Driven Attention Modeling for Visual Recognition"
       author:  "Yantian Zha, Yikang Li, Tianshu Yu, Subbarao Kambhampati and Baoxin Li"

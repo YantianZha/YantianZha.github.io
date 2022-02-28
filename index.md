@@ -8,10 +8,10 @@ pubs:
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"
       journal: "AAAI-22 Workshop on Reinforcement Learning in Games 2022."
-      url:     "https://arxiv.org/pdf/2110.05286.pdf"
+      url:     "http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_37.pdf"
       media:
         - name: "Demo Video"
-          url:  "https://drive.google.com/file/d/1Dgo6BZgOqugDe5AMCHFtBdCX_VpZi0Xk/view?usp=sharing"
+          url:  "https://youtu.be/w5nGYOdVMiA"
       
     - title:   "Symbols as a Lingua Franca for Bridging Human-AI Chasm for Explainable and Advisable AI Systems"
       author:  "Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan"

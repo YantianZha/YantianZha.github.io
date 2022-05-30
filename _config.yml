@@ -33,8 +33,12 @@ plugins:
   - jekyll-feed
 
 collections:
-  dissertation:
+  topic-a:
     output: true
+    permalink: /topic-a/:path/
+  topic-b:
+    output: true
+    permalink: /topic-b/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

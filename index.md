@@ -84,8 +84,6 @@ Please feel free to contact Yantian via [yzha3 at asu dot edu](mailto:yzha3@asu.
 
 <span style="color:red">News!</span>
 
-04/15/2022: I am a recipient of the [Maryland Robotics Center Postdoctoral Fellowship](https://robotics.umd.edu/education/postdoctoral-fellowship-program-0) at the Institute for Systems Research (ISR), University of Maryland, 2022-2023.
-
 06/30/2021: Our paper <span style="color:red">[Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping](https://arxiv.org/abs/2104.00878){:target="_blank"}</span> is accecped by IROS 2021. Thanks to my collaborators!
 
 04/30/2021: I am awarded the CIDSE Doctoral Fellowship by ASU.  

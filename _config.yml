@@ -32,14 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  topic-a:
-    output: true
-    permalink: /topic-a/:path/
-  topic-b:
-    output: true
-    permalink: /topic-b/:path/
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

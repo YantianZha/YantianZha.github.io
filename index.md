@@ -8,7 +8,7 @@ pubs:
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"
       journal: "AAAI-22 Workshop on Reinforcement Learning in Games 2022."
-      url:     "http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_37.pdf"
+      url:     "https://arxiv.org/pdf/2110.05286.pdf"
       media:
         - name: "Demo Video"
           url:  "https://youtu.be/w5nGYOdVMiA"

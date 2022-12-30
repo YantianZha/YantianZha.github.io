@@ -5,10 +5,13 @@ permalink: /
 
 pubs:
 
-    - title:   "NatSGD: A Dataset with Speech, Gestures, and Demonstrations for Robot Learning in Natural Human-Robot Interaction"
+    - title:   "NatSGD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
       journal: "AAAI-23 Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks."
-      
+      media:
+        - name: "Demo Video"
+          url:  "https://bit.ly/3fAVxoc"
+  
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"
       journal: "AAAI-22 Workshop on Reinforcement Learning in Games 2022."

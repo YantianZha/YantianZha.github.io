@@ -5,6 +5,10 @@ permalink: /
 
 pubs:
 
+    - title:   "NatSGD: A Dataset with \underline{S}peech, \underline{G}estures, and \underline{D}emonstrations for Robot Learning in \underline{Nat}ural Human-Robot Interaction"
+      author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
+      journal: "AAAI-23 Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks."
+      
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"
       journal: "AAAI-22 Workshop on Reinforcement Learning in Games 2022."

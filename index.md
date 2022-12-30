@@ -8,6 +8,7 @@ pubs:
     - title:   "NatSGD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
       journal: "AAAI-23 Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks."
+      url: "https://drive.google.com/file/d/1xlOF-4GEbCu7TxpM6ELK3TFefAGbzLex/view?usp=share_link"
       media:
         - name: "Demo Video"
           url:  "https://bit.ly/3fAVxoc"

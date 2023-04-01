@@ -20,8 +20,6 @@ pubs:
       media:
         - name: "Demo Video"
           url:  "https://youtu.be/w5nGYOdVMiA"
-        - name: "Poster"
-          url:  "https://drive.google.com/file/d/1YDNQ97OPOd4Dq0mVmm1-MbOmAisFZofY/view?usp=sharing"
         - name: "Code"
           url: "https://github.com/YantianZha/SERLfD"
       

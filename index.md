@@ -10,8 +10,8 @@ pubs:
       journal: "AAAI-23 Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks."
       url: "https://ai4athome.github.io/res/papers/shrestha_natsgd_a_dataset.pdf"
       media:
-        - name: "Demo Video"
-          url:  "https://bit.ly/3fAVxoc"
+        - name: "Project"
+          url:  "https://bit.ly/3fAVxoc](http://www.snehesh.com/natsgd/"
   
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"

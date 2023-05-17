@@ -92,7 +92,7 @@ Teaching:
 
 [2023 Spring: ENPM808Z Cognitive Robotics](https://docs.google.com/document/d/1RfCNIVXaBYseH8Emi6-MqRROzQ9chSlO1hnIwO-QP4s/edit?usp=sharing){:target="_blank"}
 
-Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}.
+Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}. For students who contact me and look for my supervision, I promise to read your email. I would also appreciate it if you could mention which of my papers or research directions you are interested; please also feel free to suggest any other research directions that you would like us to explore together.
 
 <span style="color:red">News!</span>
 

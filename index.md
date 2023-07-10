@@ -96,7 +96,7 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
-07/2023: I will co-organize our workshop [Bridging the Gap between Cognitive Science and Robot Learning in the Real World: Progresses and New Directions](https://yantianzha.github.io/crl.github.io/) at [CoRL-23](https://www.corl2023.org/). Many thanks to my collaborators!
+07/2023: Excited to announce our workshop [Bridging the Gap between Cognitive Science and Robot Learning in the Real World: Progresses and New Directions](https://yantianzha.github.io/crl.github.io/) at [CoRL-23](https://www.corl2023.org/). Many thanks to my co-organizers!
 
 04/2022: I am a recipient of the [Maryland Robotics Center Postdoctoral Fellowship](https://robotics.umd.edu/education/postdoctoral-fellowship-program-0) at the Institute for Systems Research (ISR), University of Maryland, 2022-2023.
 

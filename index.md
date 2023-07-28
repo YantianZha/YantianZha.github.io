@@ -92,6 +92,8 @@ Teaching:
 
 [2023 Spring: ENPM808Z Cognitive Robotics](https://docs.google.com/document/d/1RfCNIVXaBYseH8Emi6-MqRROzQ9chSlO1hnIwO-QP4s/edit?usp=sharing){:target="_blank"}
 
+[2023 Fall: CMSC421 Introduction to Artificial Intelligence](https://docs.google.com/document/d/16qWFxya8yX7eqli0KFXa5lACFgTqGPfBPaSzh9uzTh4/edit?usp=sharing){:target="_blank"}
+
 Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}. For students who contact me and look for my supervision, I promise to read your emails. I would appreciate it if you could mention which of my papers or research directions you are interested in; please also feel free to suggest any other research directions that you would like us to explore together.
 
 <span style="color:red">News!</span>

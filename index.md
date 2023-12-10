@@ -15,7 +15,7 @@ pubs:
   
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"
       author:  "Yantian Zha, Lin Guan, Subbarao Kambhampati"
-      journal: "AAAI-22 Workshop on Reinforcement Learning in Games 2022."
+      journal: "AAA-24 Main Track & AAAI-22 Workshop on Reinforcement Learning in Games 2022."
       url:     "https://arxiv.org/pdf/2110.05286.pdf"
       media:
         - name: "Demo Video"
@@ -99,6 +99,8 @@ Teaching:
 Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}. For students who contact me and look for my supervision, I promise to read your emails. I would appreciate it if you could mention which of my papers or research directions you are interested in; please also feel free to suggest any other research directions that you would like us to explore together.
 
 <span style="color:red">News!</span>
+
+12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning]([https://arxiv.org/abs/2104.00878](https://arxiv.org/pdf/2110.05286.pdf)){:target="_blank"}</span> is accecped by AAAI-24 Main Track. Thanks to my collaborators!
 
 07/2023: Excited to announce our workshop [Bridging the Gap between Cognitive Science and Robot Learning in the Real World: Progresses and New Directions](https://yantianzha.github.io/crl.github.io/) at [CoRL-23](https://www.corl2023.org/). Many thanks to my co-organizers!
 

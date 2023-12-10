@@ -100,7 +100,7 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
-12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning]([https://arxiv.org/abs/2104.00878](https://arxiv.org/pdf/2110.05286.pdf)){:target="_blank"}</span> is accecped by AAAI-24 Main Track. Thanks to my collaborators!
+12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning]([https://arxiv.org/abs/2104.00878](https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view)){:target="_blank"}</span> is accecped by AAAI-24 Main Track. Thanks to my collaborators!
 
 07/2023: Excited to announce our workshop [Bridging the Gap between Cognitive Science and Robot Learning in the Real World: Progresses and New Directions](https://yantianzha.github.io/crl.github.io/) at [CoRL-23](https://www.corl2023.org/). Many thanks to my co-organizers!
 

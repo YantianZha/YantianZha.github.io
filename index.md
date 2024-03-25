@@ -18,10 +18,10 @@ pubs:
       journal: "AAA-24 Main Track & AAAI-22 Workshop on Reinforcement Learning in Games 2022."
       url:     "https://arxiv.org/pdf/2110.05286.pdf"
       media:
-        - name: "Demo Video"
-          url:  "https://youtu.be/w5nGYOdVMiA"
-        - name: "Code"
-          url: "https://github.com/YantianZha/SERLfD"
+        - name: "Website"
+          url:  "https://github.com/YantianZha/SERLfD"
+        - name: "Slides"
+          url: "https://yantianzha.github.io/serlfd_slides/"
       
     - title:   "Symbols as a Lingua Franca for Bridging Human-AI Chasm for Explainable and Advisable AI Systems"
       author:  "Subbarao Kambhampati, Sarath Sreedharan, Mudit Verma, Yantian Zha, Lin Guan"

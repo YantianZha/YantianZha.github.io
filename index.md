@@ -38,7 +38,7 @@ pubs:
         - name: "IROS_Talk"
           url: "https://www.youtube.com/watch?v=K71EAN5tNaI"
         - name: "Slides"
-          url: https://docs.google.com/presentation/d/1BnLmf3-xW4GVohHwTTYLx0U0DUXFdZw5/edit?usp=sharing&ouid=113539223350183339196&rtpof=true&sd=true
+          url: https://yantianzha.github.io/AAIL_Slides/
 
     - title:   "Plan-Recognition-Driven Attention Modeling for Visual Recognition"
       author:  "Yantian Zha, Yikang Li, Tianshu Yu, Subbarao Kambhampati and Baoxin Li"

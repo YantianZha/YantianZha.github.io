@@ -100,19 +100,19 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
-07/10/2024: Our paper <span style="color:red">["Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors]([https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view](https://arxiv.org/pdf/2402.04210)){:target="_blank"}</span> is accecped by COLM-24. Thanks to my collaborators!
+07/10/2024: Our paper <span style="color:red">["Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors]([https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view](https://arxiv.org/pdf/2402.04210)){:target="_blank"}</span> is accepted by COLM-24. Thanks to my collaborators!
 
 07/03/2024: I gave a talk at at the Robotics Institute at Carnegie Mellon University: "Cognitively-Enhanced Robotic Manipulation across Sea, Air, and Land"
 
 05/23/2024: I gave a talk at [Maryland Robotics Center Research Symposium 2024](https://robotics.umd.edu/symposium2024)
 
-12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning](https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view){:target="_blank"}</span> is accecped by AAAI-24 Main Track. Thanks to my collaborators!
+12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning](https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view){:target="_blank"}</span> is accepted by AAAI-24 Main Track. Thanks to my collaborators!
 
 07/2023: Excited to announce our workshop [Bridging the Gap between Cognitive Science and Robot Learning in the Real World: Progresses and New Directions](https://yantianzha.github.io/crl.github.io/) at [CoRL-23](https://www.corl2023.org/). Many thanks to my co-organizers!
 
 04/2022: I am a recipient of the [Maryland Robotics Center Postdoctoral Fellowship](https://robotics.umd.edu/education/postdoctoral-fellowship-program-0) at the Institute for Systems Research (ISR), University of Maryland, 2022-2023.
 
-06/30/2021: Our paper <span style="color:red">[Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping](https://arxiv.org/abs/2104.00878){:target="_blank"}</span> is accecped by IROS 2021. Thanks to my collaborators!
+06/30/2021: Our paper <span style="color:red">[Contrastively Learning Visual Attention as Affordance Cues from Demonstrations for Robotic Grasping](https://arxiv.org/abs/2104.00878){:target="_blank"}</span> is accepted by IROS 2021. Thanks to my collaborators!
 
 04/30/2021: I am awarded the CIDSE Doctoral Fellowship by ASU.  
 

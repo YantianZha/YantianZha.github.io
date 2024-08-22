@@ -102,7 +102,7 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 07/10/2024: Our paper <span style="color:red">["Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors]([https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view](https://arxiv.org/pdf/2402.04210)){:target="_blank"}</span> is accepted by COLM-24. Thanks to my collaborators!
 
-07/03/2024: I gave a talk at at the Robotics Institute at Carnegie Mellon University: "Cognitively-Enhanced Robotic Manipulation across Sea, Air, and Land"
+07/03/2024: I gave a talk at the Robotics Institute at Carnegie Mellon University: "Cognitively-Enhanced Robotic Manipulation across Sea, Air, and Land"
 
 05/23/2024: I gave a talk at [Maryland Robotics Center Research Symposium 2024](https://robotics.umd.edu/symposium2024)
 

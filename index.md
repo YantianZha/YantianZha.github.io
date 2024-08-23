@@ -100,11 +100,13 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
+08/22/24: I gave a faculty talk at the [Maryland Research Day event](https://www.cs.umd.edu/community/research-day)
+
 07/10/2024: Our paper <span style="color:red">["Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors]([https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view](https://arxiv.org/pdf/2402.04210)){:target="_blank"}</span> is accepted by COLM-24. Thanks to my collaborators!
 
-07/03/2024: I gave a talk at the Robotics Institute at Carnegie Mellon University: "Cognitively-Enhanced Robotic Manipulation across Sea, Air, and Land"
+07/03/2024: I gave an invited talk at the Robotics Institute at Carnegie Mellon University: "Cognitively-Enhanced Robotic Manipulation across Sea, Air, and Land"
 
-05/23/2024: I gave a talk at [Maryland Robotics Center Research Symposium 2024](https://robotics.umd.edu/symposium2024)
+05/23/2024: I gave a faculty talk at [Maryland Robotics Center Research Symposium 2024](https://robotics.umd.edu/symposium2024)
 
 12/09/2023: Our paper <span style="color:red">[Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning](https://drive.google.com/file/d/1WdI10Rg3jWXfKpos8nqHh7qjJmU0ALOi/view){:target="_blank"}</span> is accepted by AAAI-24 Main Track. Thanks to my collaborators!
 

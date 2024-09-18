@@ -5,6 +5,14 @@ permalink: /
 
 pubs:
 
+    - title:   "Task Success is not Enough: Investigating the Use of VideoLanguage Models as Behavior Critics for Catching Undesirable Agent Behaviors"
+      author:  "Lin Guan, Yifan Zhou, Denis Liu, Yantian Zha, Heni Ben Amor, Subbarao Kambhampati"
+      journal: "Conference on Language Modeling 2024"
+      url: "https://openreview.net/forum?id=otKo4zFKmH#discussion"
+      media:
+        - name: "Project"
+          url:  "https://guansuns.github.io/pages/vlm-critic/"
+
     - title:   "NatSGD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
       journal: "AAAI-23 Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks."

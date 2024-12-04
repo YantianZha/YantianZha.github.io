@@ -5,8 +5,7 @@ permalink: /
 
 pubs:
 
-
-    - title:   "NatSGD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
+    - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
       journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
       url: "https://arxiv.org/abs/2403.02274"
@@ -108,6 +107,8 @@ Teaching:
 Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.edu) or [LinkedIn](https://www.linkedin.com/in/ytzha){:target="_blank"}. For students who contact me and look for my supervision, I promise to read your emails. I would appreciate it if you could mention which of my papers or research directions you are interested in; please also feel free to suggest any other research directions that you would like us to explore together.
 
 <span style="color:red">News!</span>
+
+12/02/2024: Our paper <span style="color:red">["NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction](http://www.snehesh.com/natsgd/){:target="_blank"}</span> is accepted by HRI-25. Thanks to my collaborators!
 
 08/22/24: I gave a faculty talk at the [Maryland Research Day event](https://www.cs.umd.edu/community/research-day)
 

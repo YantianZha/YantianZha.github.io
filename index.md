@@ -8,7 +8,7 @@ pubs:
 
     - title:   "NatSGD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
-      journal: "IEEE/ACM International Conference on Human-Robot Interaction 2025"
+      journal: "IEEE/ACM International Conference on Human-Robot Interaction 2025 (Data Paper)"
       url: "https://arxiv.org/abs/2403.02274"
       media:
         - name: "Project"

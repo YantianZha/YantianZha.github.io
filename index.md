@@ -6,7 +6,7 @@ permalink: /
 pubs:
 
     - title:   "<font color='#02D8E8' style='font-size:1.3em;'><strong>AAM-SEALS</strong></font>: Developing <font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>erial-<font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>quatic <font color='#02D8E8' style='font-size:1.3em;'><strong>M</strong></font>anipulators in <font color='#02D8E8' style='font-size:1.3em;'><strong>SE</strong></font>a, <font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>ir, and <font color='#02D8E8' style='font-size:1.3em;'><strong>L</strong></font>and <font color='#02D8E8' style='font-size:1.3em;'><strong>S</strong></font>imulator"
-      author:  "William Wang Yang, Karthikeya Kona, Yashveer Jain, Abhinav Bhamidipati, Tomer Atzili, Xiaomin Lin, Yantian Zha"
+      author:  "William Yang, Karthikeya Kona, Yashveer Jain, Abhinav Bhamidipati, Tomer Atzili, Xiaomin Lin, Yantian Zha"
       journal: "arXiv, 2024"
       url: "https://arxiv.org/pdf/2412.19744"
       media:

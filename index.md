@@ -5,6 +5,14 @@ permalink: /
 
 pubs:
 
+    - title:   "<font color='#02D8E8' style='font-size:1.5em;'><strong>AAM-SEALS</strong></font>: Developing Aerial-Aquatic Manipulators in SEa, Air, and Land Simulator"
+      author:  "William Wang Yang, Karthikeya Kona, Yashveer Jain, Abhinav Bhamidipati, Tomer Atzili, Xiaomin Lin, Yantian Zha"
+      journal: "arXiv, 2024"
+      url: "https://arxiv.org/pdf/2412.19744"
+      media:
+        - name: "Project"
+          url:  "https://aam-seals.github.io/aam-seals-v1/"
+          
     - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
       journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"

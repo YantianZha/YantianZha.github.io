@@ -102,7 +102,7 @@ Yantian was born in [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China. Whi
 
 Research Interest:
 
-Yantian is interested in Cognitive Robot Learning -- how different levels of cognitive functions like perception, acting, planning, and metacognition, can be tightly coupled to achieve human-level intelligence for robots.
+Yantian is interested in Cognitive Robotics, Artificial Intelligence, Machine Learning, Huamn-Robot Collaboration, Dynamics, and Control.
 
 Teaching:
 

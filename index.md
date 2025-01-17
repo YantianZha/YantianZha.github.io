@@ -104,7 +104,7 @@ Research Interest:
 
 Yantian is interested in advancing next-generation robotics and AI to address the dynamic challenges of **`Society 5.0`**, a vision of a technology-driven, human-centered future. By integrating **`morphological complexity`**, **`expanded operational workspaces`**, and **`advanced intelligence`**, Yantian develops robotic systems capable of seamless operation across diverse and dynamic environments.
 
-Yantian's research spans **`Cognitive Robotics`**, **`Artificial Intelligence`**, **`Machine Learning`**, **`Human-Robot Collaboration`**, **`Dynamics`**, **Control**, and **`Cross-Medium Robotics`**, and **`Advanced Simulators`**, driving innovation at the intersection of technology and societal needs.
+Yantian's research spans **`Cognitive Robotics`**, **`Artificial Intelligence`**, **`Machine Learning`**, **`Human-Robot Collaboration`**, **`Dynamics`**, **`Control`**, and **`Cross-Medium Robotics`**, and **`Advanced Simulators`**, driving innovation at the intersection of technology and societal needs.
 
 Teaching:
 

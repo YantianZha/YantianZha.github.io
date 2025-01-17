@@ -102,7 +102,7 @@ Yantian was born in [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China. Whi
 
 Research Interest:
 
-Yantian is interested in advancing next-generation robotics and AI to address the dynamic challenges of **`<span style="color:red">[Society 5.0](https://library.oapen.org/bitstream/handle/20.500.12657/41719/2020_Book_Society50.pdf?sequence=1#page=18){:target="_blank"}</span>`**, a vision of a technology-driven, human-centered future. By integrating **`morphological complexity`**, **`expanded operational workspaces`**, and **`advanced intelligence`**, Yantian develops robotic systems capable of seamless operation across diverse and dynamic environments.
+Yantian is interested in advancing next-generation robotics and AI to address the dynamic challenges of **`[Society 5.0](https://library.oapen.org/bitstream/handle/20.500.12657/41719/2020_Book_Society50.pdf?sequence=1#page=18)`**, a vision of a technology-driven, human-centered future. By integrating **`morphological complexity`**, **`expanded operational workspaces`**, and **`advanced intelligence`**, Yantian develops robotic systems capable of seamless operation across diverse and dynamic environments.
 
 Yantian's research spans **`Cognitive Robotics`**, **`Artificial Intelligence`**, **`Machine Learning`**, **`Human-Robot Collaboration`**, **`Dynamics`**, **`Control`**, and **`Cross-Medium Robotics`**, and **`Advanced Simulators`**, driving innovation at the intersection of technology and societal needs.
 

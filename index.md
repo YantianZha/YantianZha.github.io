@@ -11,7 +11,7 @@ pubs:
       url: "https://arxiv.org/pdf/2412.19744"
       media:
         - name: "Project"
-          url:  "https://aam-seals.github.io/aam-seals-v1/"
+          url:  "https://aam-seals.umd.edu/"
           
     - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"

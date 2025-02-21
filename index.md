@@ -118,6 +118,8 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
+02/07/2025: My student, William Yang, and I were interviewed by the University of Maryland about our <span style="color:red">[Aerial-Aquatic Manipulators](https://arxiv.org/pdf/2412.19744){:target="_blank"}</span> project. Stay tuned for the upcoming news!
+
 12/02/2024: Our paper <span style="color:red">["NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction](http://www.snehesh.com/natsgd/){:target="_blank"}</span> is accepted by HRI-25. Thanks to my collaborators!
 
 08/22/24: I gave a faculty talk at the [Maryland Research Day event](https://www.cs.umd.edu/community/research-day)

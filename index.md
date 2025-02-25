@@ -10,7 +10,7 @@ pubs:
       journal: "arXiv, 2024"
       url: "https://arxiv.org/pdf/2412.19744"
       media:
-        - name: "Project"
+        - name: "Website"
           url:  "https://aam-seals.umd.edu/"
           
     - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
@@ -18,7 +18,7 @@ pubs:
       journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
       url: "https://arxiv.org/pdf/2502.16718"
       media:
-        - name: "Project"
+        - name: "Website"
           url:  "http://www.snehesh.com/natsgld/"
           
     - title:   "Task Success is not Enough: Investigating the Use of VideoLanguage Models as Behavior Critics for Catching Undesirable Agent Behaviors"
@@ -26,7 +26,7 @@ pubs:
       journal: "Conference on Language Modeling 2024"
       url: "https://openreview.net/forum?id=otKo4zFKmH#discussion"
       media:
-        - name: "Project"
+        - name: "Website"
           url:  "https://guansuns.github.io/pages/vlm-critic/"
   
     - title:   "Learning from Ambiguous Demonstrations with Self-Explanation Guided Reinforcement Learning"

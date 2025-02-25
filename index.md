@@ -14,12 +14,12 @@ pubs:
           url:  "https://aam-seals.umd.edu/"
           
     - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
-      author:  "Snehesh Shrestha, Yantian Zha, Ge Gao, Cornelia Fermuller, and Yiannis Aloimonos"
+      author:  "Snehesh Shrestha, Yantian Zha, Saketh Banagiri, Ge Gao, Yiannis Aloimonos, Cornelia Fermüller"
       journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
-      url: "https://arxiv.org/abs/2403.02274"
+      url: "https://arxiv.org/pdf/2502.16718"
       media:
         - name: "Project"
-          url:  "http://www.snehesh.com/natsgd/"
+          url:  "http://www.snehesh.com/natsgld/"
           
     - title:   "Task Success is not Enough: Investigating the Use of VideoLanguage Models as Behavior Critics for Catching Undesirable Agent Behaviors"
       author:  "Lin Guan, Yifan Zhou, Denis Liu, Yantian Zha, Heni Ben Amor, Subbarao Kambhampati"
@@ -120,7 +120,7 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 02/07/2025: My student, <span style="color:red">[William Yang](https://www.linkedin.com/in/william-yang-66ab84221){:target="_blank"}</span>, and I were interviewed by the University of Maryland about our <span style="color:red">[Aerial-Aquatic Manipulators](https://arxiv.org/pdf/2412.19744){:target="_blank"}</span> project. Stay tuned for the upcoming news!
 
-12/02/2024: Our paper <span style="color:red">["NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction](http://www.snehesh.com/natsgd/){:target="_blank"}</span> is accepted by HRI-25. Thanks to my collaborators!
+12/02/2024: Our paper <span style="color:red">["NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction](http://www.snehesh.com/natsgld/){:target="_blank"}</span> is accepted by HRI-25. Thanks to my collaborators!
 
 08/22/24: I gave a faculty talk at the [Maryland Research Day event](https://www.cs.umd.edu/community/research-day)
 

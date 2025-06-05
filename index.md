@@ -12,7 +12,9 @@ pubs:
       media:
         - name: "Website"
           url:  "https://aam-seals.umd.edu/"
-          
+        - name: "Poster"          
+          url: "https://drive.google.com/file/d/1wyj_gF96U6ELItr4Ddl8YfpxQvU9X6Ps/view?usp=sharing"
+               
     - title:   "NatSGLD: A Dataset with <ins>S</ins>peech, <ins>G</ins>estures, <ins>L</ins>ogic, and <ins>D</ins>emonstrations for Robot Learning in <ins>Nat</ins>ural Human-Robot Interaction"
       author:  "Snehesh Shrestha, Yantian Zha, Saketh Banagiri, Ge Gao, Yiannis Aloimonos, Cornelia Fermüller"
       journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
@@ -20,7 +22,7 @@ pubs:
       media:
         - name: "Website"
           url:  "http://www.snehesh.com/natsgld/"
-          
+   
     - title:   "Task Success is not Enough: Investigating the Use of VideoLanguage Models as Behavior Critics for Catching Undesirable Agent Behaviors"
       author:  "Lin Guan, Yifan Zhou, Denis Liu, Yantian Zha, Heni Ben Amor, Subbarao Kambhampati"
       journal: "Conference on Language Modeling 2024"

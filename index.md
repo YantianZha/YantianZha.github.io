@@ -120,7 +120,7 @@ Please feel free to contact Yantian via [ytzha at umd dot edu](mailto:ytzha@umd.
 
 <span style="color:red">News!</span>
 
-05/16/2025: Delivered a keynote address at the NSF Data Science Symposium, hosted by North Carolina A&T State University.
+05/16/2025: Delivered a keynote talk at the NSF Data Science Symposium, hosted by North Carolina A&T State University.
 Talk Title: *Embodied and Human-Aligned Intelligence across Air, Water, and Land: From Simulation to Data-Efficient Learning*
 
 02/07/2025: My student, <span style="color:red">[William Yang](https://www.linkedin.com/in/william-yang-66ab84221){:target="_blank"}</span>, and I were interviewed by the University of Maryland about our <span style="color:red">[Aerial-Aquatic Manipulators](https://arxiv.org/pdf/2412.19744){:target="_blank"}</span> project. Stay tuned for the upcoming news!

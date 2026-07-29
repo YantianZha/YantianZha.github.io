@@ -122,7 +122,7 @@ Please feel free to contact Yantian via [yzha at ncat dot edu](mailto:yzha@ncat.
 
 <span style="color:red">News!</span>
 
-03/16/2026: Received an NSF award of $200,000 for two years as a single PI.
+03/16/2026: Received an NSF award of $200,000 for two years as a sole PI.
 
 05/16/2025: Delivered a keynote talk at the NSF Data Science Symposium, hosted by North Carolina A&T State University.
 Talk Title: *Embodied and Human-Aligned Intelligence across Air, Water, and Land: From Simulation to Data-Efficient Learning*

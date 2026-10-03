@@ -7,7 +7,7 @@ pubs:
                
     - title:   "Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos"
       author:  "Hangong Chen, Linfeng Cheng, Tahsin Zaman Jilan, Ian Fuller,  Lee Caesar, Jiaye Wu, Yantian Zha"
-      journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
+      journal: "arXiv, 2026"
       url: "https://arxiv.org/pdf/2609.38966"
       media:
         - name: "Website"

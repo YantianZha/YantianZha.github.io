@@ -4,7 +4,15 @@ title:
 permalink: /
 
 pubs:
-
+               
+    - title:   "Video2SwimFish: An Automated Pipeline for Reconstructing Controllable Fish Models and Biological Locomotion from Real Fish Videos"
+      author:  "Hangong Chen, Linfeng Cheng, Tahsin Zaman Jilan, Ian Fuller,  Lee Caesar, Jiaye Wu, Yantian Zha"
+      journal: "IEEE/ACM International Conference on Human-Robot Interaction (Data Paper), 2025"
+      url: "https://arxiv.org/pdf/2609.38966"
+      media:
+        - name: "Website"
+          url:  "https://hangongchen.github.io/video2swimfish-web/"
+          
     - title:   "<font color='#02D8E8' style='font-size:1.3em;'><strong>AAM-SEALS</strong></font>: Developing <font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>erial-<font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>quatic <font color='#02D8E8' style='font-size:1.3em;'><strong>M</strong></font>anipulators in <font color='#02D8E8' style='font-size:1.3em;'><strong>SE</strong></font>a, <font color='#02D8E8' style='font-size:1.3em;'><strong>A</strong></font>ir, and <font color='#02D8E8' style='font-size:1.3em;'><strong>L</strong></font>and <font color='#02D8E8' style='font-size:1.3em;'><strong>S</strong></font>imulator"
       author:  "William Yang, Karthikeya Kona, Yashveer Jain, Abhinav Bhamidipati, Tomer Atzili, Xiaomin Lin, Yantian Zha"
       journal: "arXiv, 2024; ICRA Amphibious Robotics Workshop, 2025"
